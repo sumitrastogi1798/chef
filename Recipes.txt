@@ -6,4 +6,10 @@ KHEER
 PASTA
 MAGGI
 
+
+
+
+BEANS
+PIZZA
+
 Thank you!!
